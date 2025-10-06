@@ -157,9 +157,7 @@ This system enables healthcare providers to:
 - **Multi-modal inputs** (lab results, imaging, genomics)
 - **Automated model monitoring** and drift detection
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
